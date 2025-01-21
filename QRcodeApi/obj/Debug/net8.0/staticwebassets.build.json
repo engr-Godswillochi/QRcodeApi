@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "wiQECQtKJmT3T1feJXAbPO81Heo2Pz7XvCXj1yxwH70=",
+  "Source": "QRcodeApi",
+  "BasePath": "_content/QRcodeApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
